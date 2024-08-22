@@ -1,0 +1,23 @@
+[
+  {
+    "id": 3,
+    "employeeName": "John Doe",
+    "dateOfBirth": "2024-08-01",
+    "image": "https://antimatter.vn/wp-content/uploads/2022/11/hinh-anh-anime-nam.jpg",
+    "email": "fv@gmail.com"
+  },
+  {
+    "id": 4,
+    "employeeName": "Nguyễn văn A",
+    "dateOfBirth": "1991-06-13",
+    "image": "https://khoinguonsangtao.vn/wp-content/uploads/2022/10/hinh-anh-anime-han-quoc.jpg",
+    "email": "nva@gmail.com"
+  },
+  {
+    "id": 5,
+    "employeeName": "Trần Thị B",
+    "dateOfBirth": "1992-06-12",
+    "image": "https://kynguyenlamdep.com/wp-content/uploads/2022/08/anh-anime-toc-hong-cute.jpg",
+    "email": "ttb@gmail.com"
+  }
+]
